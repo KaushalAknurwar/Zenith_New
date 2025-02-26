@@ -1,0 +1,43 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Dependencies
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Environment Variables
+.env
+src/api/.env
+.env.*
+!.env.example
+
+# API and Config files with sensitive data
+src/integrations/supabase/client.ts
+supabase/config.toml
+src/api/wit.ts
+src/config/*
+!src/config/index.ts
+
+# Build output
+build/
+dist/
+out/
