@@ -31,8 +31,8 @@ src/api/.env
 !.env.example
 
 # API and Config files with sensitive data
-src/integrations/supabase/client.ts
-supabase/config.toml
+
+
 src/api/wit.ts
 src/config/*
 !src/config/index.ts
