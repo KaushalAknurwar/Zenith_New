@@ -2,6 +2,10 @@
 
 A comprehensive mental health and wellness platform built with React, TypeScript, and modern web technologies. Zenith provides interactive tools, games, and resources to support mental well-being.
 
+# Live Protoype Link
+
+https://zenith-new.vercel.app     (Click on "Get Started")
+
 ## ✨ Features Overview
 
 ### 🎮 Interactive Wellness Games
